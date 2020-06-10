@@ -1,2 +1,2 @@
 # single-color-pages
-Single color pages. As simple as that.
+Single color pages. That's it.
